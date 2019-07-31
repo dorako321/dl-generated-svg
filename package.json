@@ -1,0 +1,15 @@
+{
+  "name": "download-svg-image",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "repository": "git@github.com:dorako321/download-svg-image.git",
+  "author": "Daijirou YAMADA <yamad@daiji.ro>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "tsc --outDir dist/"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
+}
