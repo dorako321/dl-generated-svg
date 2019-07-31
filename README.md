@@ -7,7 +7,8 @@ Download a SVG element as SVG file.
 
 
 dl-generated-svg はセレクタで指定したsvg要素の内容をブラウザで保存できるように
-ダウンロードリンクを生成します。すべてJavaScriptで処理するためサーバサイドの処理は不要です。
+ダウンロードリンクを生成し、ダウンロードを実行します。
+すべてJavaScriptで処理するためサーバサイドの処理は不要です。
 
 ## Demo
 
@@ -34,7 +35,7 @@ $ yarn add dl-generated-svg
 
 npm
 ```
-$ npm i dl-generated-svg
+$ npm i --save dl-generated-svg
 ```
 
 ## Contribution
