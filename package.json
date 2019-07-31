@@ -1,6 +1,6 @@
 {
-  "name": "download-svg-image",
-  "version": "0.0.1",
+  "name": "dl-generated-svg",
+  "version": "0.0.2",
   "main": "dist/index.js",
   "repository": "git@github.com:dorako321/download-svg-image.git",
   "author": "Daijirou YAMADA <yamad@daiji.ro>",
